@@ -580,14 +580,14 @@
     [
         "c:\\Users\\Halax\\Documents\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Halax\\Documents\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 396,
             "modifiedTime": 1541771824161,
             "changeTime": 1541771824161,
-            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
         }
     ],
     [
@@ -1040,9 +1040,9 @@
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 795,
-            "modifiedTime": 1541771962074,
-            "changeTime": 1541771962074,
-            "contentHash": "b13de8b95dbf30b3b283d5340c515629255e239a"
+            "modifiedTime": 1541771841409,
+            "changeTime": 1541771841409,
+            "contentHash": "7366953a19e8efded0af37fc508f0e21da78dbb0"
         }
     ],
     [
